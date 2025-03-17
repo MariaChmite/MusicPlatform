@@ -3,10 +3,10 @@
 Java Music Platform
 =========================================================
 This code is developed by:
-- Salim El Ghersse (@SalimElGhersse)
 - Maria Chmite (@MariaChmite)
-- Nouamane Zanboui (@NouamaneZanboui)
-- Jad Falaq (@JadFalaq)
+- Salim El Ghersse (@SalimElGhersse)
+- Nouamane Zanboui 
+- Jad Falaq 
 
 Description:
 This project is a Java-based music platform that enables users to explore 
